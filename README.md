@@ -1,8 +1,3 @@
-# GitHub-Tags
-All the GitHub Tags<br>
-We have all the GitHub Tags right here in this<br>
-next line we will show them<br>
-
 # Comprehensive Guide to Supported HTML Tags in GitHub Markdown
 
 GitHub Flavored Markdown (GFM) filters out unsafe elements (like `<script>`, `<iframe>`, `<style>`, and form elements) to prevent cross-site scripting (XSS) attacks. Below is the complete, exhaustive list of all standard HTML tags that GitHub safely renders in `.md` files.
